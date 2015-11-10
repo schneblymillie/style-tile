@@ -3,13 +3,48 @@
 /***************/
 
 /* Color Palette */
+.color-1 {
+    background: rgb(214, 83, 60); 
+}
 
+.color-2 {
+    background: rgb(92, 102, 120); 
+}
 
+.color-3 {
+    background: rgb(29, 24, 31); 
+}
 /* Textures or Patterns*/
 
+.pattern-1 {
+    background: url(../img/brickwall.png); 
+}
+
+.pattern-2 {
+    
+}
+
+.pattern-3 {
+    
+}
 
 /* Imagery */
 
+.imagery-1 {
+    background: url(../img/headshot.png); 
+    background-repeat: no-repeat; 
+    width: 774px; 
+    height:  1079px; 
+    
+}
+
+.imagery-2 {
+    
+}
+
+.imagery-3 {
+    
+}
 
 /* Icons */
 
